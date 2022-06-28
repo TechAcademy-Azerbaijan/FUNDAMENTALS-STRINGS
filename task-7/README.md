@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Sleeping cars 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Riyazi funksiyalar
+* Sətirlər
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+A train contains sleeping cars, marked with letter k, and sitting cars, marked with letter p. Find the biggest number of sleeping cars that follow each other in the train.
+
 
 #### Giriş verilənləri
-SomeText
+One line contains a sequence of letters k and p, with length from 1 to 1000 characters.
+
 
 #### Çıxış verilənləri
-SomeText
+Print the maximum number of seeping cars that follow each other.
+
 
 ---
 
@@ -38,13 +40,13 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+kpkkp
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+2
 ```
 
 

@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Qiymətlər 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Riyazi funksiyalar
+* Sətirlər
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,18 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Pənah məktəbdə yalnız iki və beş qiymətlər alır. Hansı qiymətin daha çox olduğunu təyin edin.
+
 
 #### Giriş verilənləri
-SomeText
+Tək sətirdə Pənahın qiymətləri verilir. Məlumdur ki, Pənah yalnız iki və beş qiymətlər alır, qiymətlər boşluqsuz verilib və onların sayı 1000-i aşmır.
+
+
 
 #### Çıxış verilənləri
-SomeText
+Beşlərin sayı ikilərin sayından çoxdursa, 5 çap edin. İkilərin sayı beşlərin sayından çoxdursa, 2 çap edin. Əgər ikilərin sayı beşlərin sayına bərabərdirsə, '=' simvolunu çap edin.
+
+
 
 ---
 
@@ -35,16 +39,28 @@ SomeText
 
 ---
 
-**Giriş verilənləri** 
+**Giriş verilənləri 1** 
 
 ```
-xxx
+255222
 ```
 
-**Çıxış verilənləri**
+**Çıxış verilənləri 1**
 
 ```
-xxx
+2
+```
+
+**Giriş verilənləri 2** 
+
+```
+525522
+```
+
+**Çıxış verilənləri 2**
+
+```
+=
 ```
 
 

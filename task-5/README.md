@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Əməllərin sayı 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Riyazi funksiyalar
+* Sətirlər
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Verilmiş hesabi ifadədə toplama (+), çıxma (-) və vurma (*) əməllərinin ümumi sayını müəyyənləşdirin.
+
 
 #### Giriş verilənləri
-SomeText
+Yeganə sətirdə mötərizə və boşluq işarəsi olmayan hesabi ifadə verilir. İfadədə simvolların sayı 250-ni aşmır.
+
 
 #### Çıxış verilənləri
-SomeText
+Yeganə ədəd - göstərilən əməllərin sayı.
+
 
 ---
 
@@ -38,13 +40,13 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
++5-2+4-m/n*2:4
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+4
 ```
 
 

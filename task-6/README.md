@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Sözlərin sayı 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,9 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Riyazi funksiyalar
+* Sətirlər
+
 
 **Yekun qeydlər**: 
 
@@ -19,13 +19,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Verilmiş mətn fraqmentində sözlərin sayını müəyyənləşdirin.
+
 
 #### Giriş verilənləri
-SomeText
+Yeganə sətirdə ingilis dilində simvollarının sayı 250-ni aşmayan mətn fraqmenti verilir. Zəmanət verilir ki, mətndə tire, defis, rəqəm və ədəd yoxdur.
+
 
 #### Çıxış verilənləri
-SomeText
+Yeganə ədəd - fraqmentdə sözlərin sayı.
+
 
 ---
 
@@ -38,13 +41,13 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+Hello world! Hello,    country!
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+4
 ```
 
 

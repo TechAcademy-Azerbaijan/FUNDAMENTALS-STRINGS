@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Birinci, yoxsa axırıncı? 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Riyazi funksiyalar
+* Sətirlər
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,18 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Üçrəqəmli ədəd verilmişdir. Onun rəqəmlərindən hansının - birincinin, yoxsa axırıncının böyük olduğunu müəyyənləşdirin.
+
 
 #### Giriş verilənləri
-SomeText
+Yeganə sətirdə üçrəqəmli ədəd verilir.
+
+
 
 #### Çıxış verilənləri
-SomeText
+Çıxışa göstərilən rəqəmlərdən böyüyünü verin. Onlar bərabər olduqda "=" işarəsini (dırnaqsız) verin.
+
+
 
 ---
 
@@ -38,13 +42,13 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+328
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+8
 ```
 
 

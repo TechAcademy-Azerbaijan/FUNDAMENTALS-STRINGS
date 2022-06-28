@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Hərfləri saymalı 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,9 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Riyazi funksiyalar
+* Sətirlər
+
 
 **Yekun qeydlər**: 
 
@@ -19,13 +19,15 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+s sətri və c hərfi verilmişdir. Bu hərfə sətirdə neçə dəfə rast gəlinir?
+
 
 #### Giriş verilənləri
-SomeText
+İlk sətirdə uzunluğu 100 simvolu aşmayan s sətri verilir. İkinci sətirdə kicik c latın hərfi verilir.
+
 
 #### Çıxış verilənləri
-SomeText
+c hərfinin s sətrində rast gəlmə sayını çap edin. Baş və kiçik hərf eyni sayılır. Yəni 'a' və 'A' eyni hərflərdir.
 
 ---
 
@@ -37,14 +39,16 @@ SomeText
 
 **Giriş verilənləri** 
 
-```
-xxx
+*[main.js](./main.js) faylında verilmişdir*
+```javascript
+let s = "This is a cat sitting on a table"
+let c = "t"
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+5
 ```
 
 

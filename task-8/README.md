@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Baş hərfli sözlər sətri 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Riyazi funksiyalar
+* Sətirlər
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,15 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Mətnlərin emalına aid sadə məsələlərdən biri sətirdəki hər bir sözün birinci hərfini baş hərfə çevirməkdir. Bir və ya bir neçə boşluqla ayrılmış kiçik hərflərdən ibarət sətir verilmişdir. Eyni sətri, hər sözün birinci hərfini baş hərfə çevirərək çap edin.
 
 #### Giriş verilənləri
-SomeText
+Bir və ya bir neçə boşluqla ayrılmış, 'a' - 'z' diapazonunda kiçik latın hərflər verilir. Sətrin uzunluğu 50 simvolu aşmır.
+
 
 #### Çıxış verilənləri
-SomeText
+Eyni sətri, hər sözün birinci hərfini baş hərfə çevirərək çap edin.
+
 
 ---
 
@@ -38,13 +39,13 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+introduction to algorithms
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+Introduction To Algorithms
 ```
 
 

@@ -1,9 +1,6 @@
-const prompt = require('prompt');
-prompt.start();
+// Use these variables in your code
 
+let s = "This is a cat sitting on a table"
+let c = "t"
 
-prompt.get('input', function (err, result) {
-  
-    // Write code here
-  
-});
+// Write code here. 

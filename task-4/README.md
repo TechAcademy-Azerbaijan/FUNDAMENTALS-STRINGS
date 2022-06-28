@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Cümlələrin sayı 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Riyazi funksiyalar
+* Sətirlər
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Verilmiş mətn fraqmentində cümlələrin sayını müəyyənləşdirin.
+
 
 #### Giriş verilənləri
-SomeText
+Yeganə sətirdə ingilis dilində simvollarının sayı 250-ni aşmayan mətn fraqmenti verilir. Zəmanət verilir ki, mətndə tire, defis, rəqəm və ədəd yoxdur.
+
 
 #### Çıxış verilənləri
-SomeText
+Yeganə ədəd - fraqmentdə cümlələrin sayı.
+
 
 ---
 
@@ -38,13 +40,13 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+Hello world! I learn to code.
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+2
 ```
 
 

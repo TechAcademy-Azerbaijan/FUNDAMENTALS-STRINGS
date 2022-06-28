@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Boşluqların indeksləri 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Riyazi funksiyalar
+* Sətirlər
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Verilmiş sətirdə birinci və sonuncu boşluq işarəsinin indekslərini çap edin. Nəzərə alın ki, sətrin ilk simvolunun indeksi 0-dan başlayır.
+
 
 #### Giriş verilənləri
-SomeText
+Latın hərfləri, durğu işarələri və boşluqlardan ibarət tək sətir.
+
 
 #### Çıxış verilənləri
-SomeText
+İlk və sonuncu boşluğun indekslərini çap edin. Sətirdə boşluq yoxdursa, -1 çap edin.
+
 
 ---
 
@@ -35,18 +37,31 @@ SomeText
 
 ---
 
-**Giriş verilənləri** 
+**Giriş verilənləri 1** 
 
 ```
-xxx
+I am programming on Javascript.
 ```
 
-**Çıxış verilənləri**
+**Çıxış verilənləri 1**
 
 ```
-xxx
+1
+19
 ```
 
+
+**Giriş verilənləri 2** 
+
+```
+abrakadabra
+```
+
+**Çıxış verilənləri 2**
+
+```
+-1
+```
 
 ---
 
