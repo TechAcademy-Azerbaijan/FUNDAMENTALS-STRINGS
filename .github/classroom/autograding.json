@@ -108,7 +108,7 @@
       "output": "1\r\n19",
       "comparison": "included",
       "timeout": 10,
-      "points": 100
+      "points": 50
     },
     {
       "name": "Task 10 - Test 2",
@@ -118,7 +118,7 @@
       "output": "-1",
       "comparison": "included",
       "timeout": 10,
-      "points": 100
+      "points": 50
     }
   ]
 }
